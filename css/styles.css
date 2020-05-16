@@ -211,7 +211,7 @@ a {
 
 /* CONTACT */
 .box-contact-section {
-  width: 1400px;
+  width: 100%;
   margin: 0 auto;
   position: relative;
   background: var(--main-color) url(../img/Map_Image.png) right bottom 20px
